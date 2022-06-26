@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.793a2d77.css",
+    "main.js": "/static/js/main.1fa341b6.js",
+    "static/js/787.c97c7d0e.chunk.js": "/static/js/787.c97c7d0e.chunk.js",
+    "static/media/IMG2.jpg": "/static/media/IMG2.416db7cc519d495554c8.jpg",
+    "static/media/IMG1.jpg": "/static/media/IMG1.5fb768e50477f61107f1.jpg",
+    "static/media/IMG4.jpg": "/static/media/IMG4.921e002f241ff2699152.jpg",
+    "static/media/IMG3.jpg": "/static/media/IMG3.74ba9210ce6cbdab6ec9.jpg",
+    "static/media/IMG5.jpg": "/static/media/IMG5.054083add1288e147702.jpg",
+    "static/media/SriLohith_Resume.pdf": "/static/media/SriLohith_Resume.d3505a91784bc3df823a.pdf",
+    "static/media/skills.jpg": "/static/media/skills.53f01ca49619c628c165.jpg",
+    "static/media/profle.webp": "/static/media/profle.1b4e5abab32a4c8e80bf.webp",
+    "index.html": "/index.html",
+    "main.793a2d77.css.map": "/static/css/main.793a2d77.css.map",
+    "main.1fa341b6.js.map": "/static/js/main.1fa341b6.js.map",
+    "787.c97c7d0e.chunk.js.map": "/static/js/787.c97c7d0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.793a2d77.css",
+    "static/js/main.1fa341b6.js"
+  ]
+}
