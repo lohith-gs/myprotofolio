@@ -19,7 +19,7 @@ import "./Intro.css"
         
         
         return () => { clearInterval(timer); }
-      }, []);
+      });
 
     
     return(

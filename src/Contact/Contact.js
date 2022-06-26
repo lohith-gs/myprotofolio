@@ -1,5 +1,5 @@
 import React from "react";
-import liveLong from './giphy.gif';
+
 import './Contact.css';
 const Contact=()=>{
     const linkedIn= "https://www.linkedin.com/in/lohith-gs-dev";
