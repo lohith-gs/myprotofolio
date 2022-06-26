@@ -1,0 +1,37 @@
+.projects-block{
+    position: sticky;
+    margin:30px;
+    background-color: #f9faf4;
+}
+
+.projects-text{
+    font-family: 'Quicksand', sans-serif;
+    color:#4a6163;
+    font-size: 25px;
+    text-align: center;
+    font-weight: 600;
+    padding: 20px;
+}
+
+.projects-item{
+    background: #141E30;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Quicksand', sans-serif;
+    color:#f9faf4;
+    margin:10px;
+    
+}
+
+.project-text1{
+    font-weight: 300;
+    font-size: 16px;
+    padding: 10px;
+    text-align: left;
+}
+
+.project-text2{
+    font-weight: 300;
+    font-size: 14px;
+    text-align: left;
+}

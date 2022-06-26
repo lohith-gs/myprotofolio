@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Mali:wght@300&display=swap');
+.intro-main{
+    background-color: #f9faf4;
+    margin-top: 0 !important;    
+    position: sticky;
+    margin: 30px !important;
+    width: 97.2%;
+    text-align: center;
+}
+.greet-style{
+    color: #f9faf4;
+    background-color: #e55c4c;
+    width: fit-content;
+    font-family: 'Black Ops One', cursive;
+    font-size: 60px;
+    padding: 0px !important;
+    margin: 10px !important;
+    transition: 2s;
+}
+.name-style{
+    color:#4a6163;
+    font-size: 65px;
+    font-weight: 400;
+    font-family: 'Black Ops One', cursive;
+    padding: 0px !important;
+    margin-top: 80px !important;
+    margin-bottom: 50px;
+}
+.description{
+    font-family: 'Mali';
+    font-size: 40px;
+    font-weight: 300;
+    color:#ffc94b;
+    padding: 20px !important;
+    margin-bottom: 40px !important;
+}

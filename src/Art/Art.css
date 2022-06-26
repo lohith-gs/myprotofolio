@@ -1,0 +1,31 @@
+.art-block{
+    background-color: #e55c4c;
+    position: sticky;
+    margin:30px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    color:#f9faf4;
+}
+
+
+.slides-block{
+    display:flex;
+    justify-content: center;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 45px;
+
+}
+
+.slides-block>p:hover{
+    cursor: pointer;
+}
+
+
+.art-img-style{
+    height: 400px;
+    width: 800px;
+    align-self: center;
+}

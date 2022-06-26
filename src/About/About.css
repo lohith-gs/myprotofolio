@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Mali:wght@300&family=Quicksand:wght@300&display=swap');
+
+.about-block{
+    position:sticky;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    margin: 30px !important;
+}
+
+.img-style{
+    border: none;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    justify-self:center;
+}
+
+.about-text{
+    font-family: 'Quicksand', sans-serif;
+    color:#4a6163;
+}
