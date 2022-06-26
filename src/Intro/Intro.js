@@ -6,7 +6,7 @@ import "./Intro.css"
     
     return(
         <div className="intro-main">
-            <p className="greet-style">Hello !</p>
+            <p className="greet-style">Hello!</p>
             <p className="name-style">I'm Lohith GS.</p>
             <div className="description">
                 <Typewriter
